@@ -16,7 +16,7 @@ height: 210px;
 
 .Title
 {
-font-family: 'Courier New', Courier, monospace;
+font-family:Arial, Helvetica, sans-serif;
 color:rgb(255,255,255);
 display: flex;
 justify-content: center;
@@ -27,7 +27,7 @@ margin-bottom:20px;
 
 .PrimaryTitle
 {
-font-family: 'Courier New', Courier, monospace;
+font-family: Arial, Helvetica, sans-serif;
 color:rgb(255,255,255);
 display: flex;
 justify-content: center;
@@ -37,7 +37,7 @@ margin-top:-1px;
 
 .fonte
 {
-font-family: 'Courier New', Courier, monospace;
+font-family: Arial, Helvetica, sans-serif;
 color:rgb(255,255,255);
 display: flex;
 justify-content: justify;
@@ -45,7 +45,7 @@ font-size:20px;
 }
 .fontefooter
 {
-font-family: 'Courier New', Courier, monospace;
+font-family: Arial, Helvetica, sans-serif;
 color:rgb(255,255,255);
 display: flex;
 justify-content: center;
@@ -57,7 +57,7 @@ font-size:20px;
 display: inline-block;
 gap: 30px;
 color:rgb(255,255,255);
-font-family: 'Courier New', Courier, monospace;
+font-family: Arial, Helvetica, sans-serif;
 display: flex;
 justify-content: center;
 text-decoration: none;
@@ -81,7 +81,7 @@ font-size:20px;
 
 .fonteBox
 {
-font-family: 'Courier New', Courier, monospace;
+font-family: Arial, Helvetica, sans-serif;
 color:rgb(255,255,255);
 display: flex;
 justify-content: justify;
